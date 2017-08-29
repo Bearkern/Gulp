@@ -1,0 +1,24 @@
+{
+  "name": "demo_gulp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Bearkern <haolin1224@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Bearkern/hex-school-exercise",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "vendors/"
+  ],
+  "dependencies": {
+    "jquery": "1.11.0",
+    "angular": "^1.6.5",
+    "bootstrap": "#v4.0.0-alpha.6",
+    "vue": "^2.4.2"
+  }
+}
